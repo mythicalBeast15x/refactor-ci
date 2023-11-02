@@ -1,0 +1,45 @@
+name: Python CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x 
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt  # Install your project's dependencies
+
+    - name: Run Tests
+      run: pytest  
+      env:
+        CI: true  
+
+    - name: Run Linter (e.g., Flake8)
+      run: flake8  
+
+    - name: Run Coverage
+      run: |
+        coverage run -m pytest  # Run tests with coverage
+        coverage report -m  # Display coverage report
+      env:
+        CI: true  
+
+    - name: Upload Coverage Report
+      if: success()
+      uses: actions/upload-artifact@v2
+      with:
+        name: coverage-report
+        path: .coverage 
+
+    - name: Complete
+      run: echo "All checks completed successfully!"
