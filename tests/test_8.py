@@ -1,3 +1,7 @@
+
+import sys
+sys.path.insert(0, '/workspaces/refactor-ci/src/')
+from cs132_HW1 import Fraction 
 x = Fraction(1, 2)
 x.show()
 y = Fraction(2, 3)

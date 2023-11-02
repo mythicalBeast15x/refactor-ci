@@ -1,0 +1,264 @@
+./refactor-ci/src/cs132_HW1.py:1:2: E114 indentation is not a multiple of 4 (comment)
+./refactor-ci/src/cs132_HW1.py:1:2: E116 unexpected indentation (comment)
+./refactor-ci/src/cs132_HW1.py:4:80: E501 line too long (296 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:6:1: E302 expected 2 blank lines, found 0
+./refactor-ci/src/cs132_HW1.py:7:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:7:7: E117 over-indented
+./refactor-ci/src/cs132_HW1.py:9:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:10:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:11:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:12:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:12:6: E721 do not compare types, for exact checks use `is` / `is not`, for instance checks use `isinstance()`
+./refactor-ci/src/cs132_HW1.py:14:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:14:8: E721 do not compare types, for exact checks use `is` / `is not`, for instance checks use `isinstance()`
+./refactor-ci/src/cs132_HW1.py:16:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:19:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:24:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:26:5: E303 too many blank lines (2)
+./refactor-ci/src/cs132_HW1.py:38:9: E122 continuation line missing indentation or outdented
+./refactor-ci/src/cs132_HW1.py:43:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:44:5: E303 too many blank lines (3)
+./refactor-ci/src/cs132_HW1.py:47:9: E122 continuation line missing indentation or outdented
+./refactor-ci/src/cs132_HW1.py:64:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:67:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:70:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:73:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:82:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:85:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:89:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:90:7: E114 indentation is not a multiple of 4 (comment)
+./refactor-ci/src/cs132_HW1.py:90:7: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:91:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:92:5: F811 redefinition of unused '__repr__' from line 81
+./refactor-ci/src/cs132_HW1.py:93:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:96:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:97:5: E301 expected 1 blank line, found 0
+./refactor-ci/src/cs132_HW1.py:98:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:99:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:103:1: E305 expected 2 blank lines after class or function definition, found 1
+./refactor-ci/src/cs132_HW1.py:109:27: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:113:80: E501 line too long (157 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:114:80: E501 line too long (117 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:116:80: E501 line too long (317 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:118:80: E501 line too long (115 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:120:80: E501 line too long (133 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:122:80: E501 line too long (205 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:124:80: E501 line too long (398 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:126:80: E501 line too long (126 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:130:80: E501 line too long (126 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:144:1: E303 too many blank lines (12)
+./refactor-ci/src/cs132_HW1.py:145:80: E501 line too long (152 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:147:80: E501 line too long (126 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:179:80: E501 line too long (82 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:185:80: E501 line too long (82 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:236:80: E501 line too long (80 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:258:28: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:263:77: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:292:1: E302 expected 2 blank lines, found 0
+./refactor-ci/src/cs132_HW1.py:305:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:312:5: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:313:19: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:315:5: E301 expected 1 blank line, found 0
+./refactor-ci/src/cs132_HW1.py:315:19: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:317:5: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:318:5: E301 expected 1 blank line, found 0
+./refactor-ci/src/cs132_HW1.py:319:23: E711 comparison to None should be 'if cond is None:'
+./refactor-ci/src/cs132_HW1.py:320:80: E501 line too long (86 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:321:5: E301 expected 1 blank line, found 0
+./refactor-ci/src/cs132_HW1.py:322:23: E711 comparison to None should be 'if cond is None:'
+./refactor-ci/src/cs132_HW1.py:323:80: E501 line too long (86 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:325:5: E301 expected 1 blank line, found 0
+./refactor-ci/src/cs132_HW1.py:330:23: E711 comparison to None should be 'if cond is None:'
+./refactor-ci/src/cs132_HW1.py:333:27: E711 comparison to None should be 'if cond is None:'
+./refactor-ci/src/cs132_HW1.py:337:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:340:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:352:15: E275 missing whitespace after keyword
+./refactor-ci/src/cs132_HW1.py:352:44: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:354:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:368:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:368:27: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:371:5: E301 expected 1 blank line, found 0
+./refactor-ci/src/cs132_HW1.py:372:15: E275 missing whitespace after keyword
+./refactor-ci/src/cs132_HW1.py:372:50: E275 missing whitespace after keyword
+./refactor-ci/src/cs132_HW1.py:372:78: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:374:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:382:21: E711 comparison to None should be 'if cond is None:'
+./refactor-ci/src/cs132_HW1.py:383:80: E501 line too long (84 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:386:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:388:5: E303 too many blank lines (2)
+./refactor-ci/src/cs132_HW1.py:389:21: E711 comparison to None should be 'if cond is None:'
+./refactor-ci/src/cs132_HW1.py:408:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:415:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:422:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:437:12: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:437:14: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:438:3: E114 indentation is not a multiple of 4 (comment)
+./refactor-ci/src/cs132_HW1.py:438:3: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:439:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:439:7: E225 missing whitespace around operator
+./refactor-ci/src/cs132_HW1.py:440:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:440:7: E225 missing whitespace around operator
+./refactor-ci/src/cs132_HW1.py:441:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:441:7: E225 missing whitespace around operator
+./refactor-ci/src/cs132_HW1.py:442:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:442:7: E225 missing whitespace around operator
+./refactor-ci/src/cs132_HW1.py:443:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:443:6: E225 missing whitespace around operator
+./refactor-ci/src/cs132_HW1.py:444:3: E114 indentation is not a multiple of 4 (comment)
+./refactor-ci/src/cs132_HW1.py:445:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:446:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:446:17: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:447:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:448:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:449:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:450:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:451:3: E114 indentation is not a multiple of 4 (comment)
+./refactor-ci/src/cs132_HW1.py:451:3: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:452:3: F841 local variable 'ca' is assigned to but never used
+./refactor-ci/src/cs132_HW1.py:452:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:453:3: F841 local variable 'cb' is assigned to but never used
+./refactor-ci/src/cs132_HW1.py:453:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:454:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:455:3: F841 local variable 'cc' is assigned to but never used
+./refactor-ci/src/cs132_HW1.py:455:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:456:3: F841 local variable 'cd' is assigned to but never used
+./refactor-ci/src/cs132_HW1.py:456:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:457:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:458:3: E114 indentation is not a multiple of 4 (comment)
+./refactor-ci/src/cs132_HW1.py:458:3: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:459:3: E114 indentation is not a multiple of 4 (comment)
+./refactor-ci/src/cs132_HW1.py:460:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:461:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:462:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:462:14: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:463:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:464:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:465:1: E305 expected 2 blank lines after class or function definition, found 1
+./refactor-ci/src/cs132_HW1.py:465:2: E225 missing whitespace around operator
+./refactor-ci/src/cs132_HW1.py:466:12: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:467:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:467:14: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:468:10: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:468:22: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:468:24: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:469:12: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:469:14: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:469:20: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:471:2: E225 missing whitespace around operator
+./refactor-ci/src/cs132_HW1.py:472:12: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:473:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:473:14: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:474:10: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:474:22: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:474:24: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:475:12: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:475:14: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:475:20: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:476:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:477:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:478:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:480:69: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:487:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:488:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:488:14: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:489:16: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:490:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:490:21: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:490:23: E231 missing whitespace after ','
+./refactor-ci/src/cs132_HW1.py:491:7: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:492:3: E111 indentation is not a multiple of 4
+./refactor-ci/src/cs132_HW1.py:494:1: E305 expected 2 blank lines after class or function definition, found 1
+./refactor-ci/src/cs132_HW1.py:495:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:496:1: E302 expected 2 blank lines, found 1
+./refactor-ci/src/cs132_HW1.py:496:28: E251 unexpected spaces around keyword / parameter equals
+./refactor-ci/src/cs132_HW1.py:496:30: E251 unexpected spaces around keyword / parameter equals
+./refactor-ci/src/cs132_HW1.py:515:1: E303 too many blank lines (4)
+./refactor-ci/src/cs132_HW1.py:515:26: E251 unexpected spaces around keyword / parameter equals
+./refactor-ci/src/cs132_HW1.py:515:28: E251 unexpected spaces around keyword / parameter equals
+./refactor-ci/src/cs132_HW1.py:538:1: E303 too many blank lines (6)
+./refactor-ci/src/cs132_HW1.py:554:1: W293 blank line contains whitespace
+./refactor-ci/src/cs132_HW1.py:555:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:556:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:557:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:558:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:559:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:560:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:561:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:562:1: E265 block comment should start with '# '
+./refactor-ci/src/cs132_HW1.py:566:1: E303 too many blank lines (3)
+./refactor-ci/src/cs132_HW1.py:567:80: E501 line too long (82 > 79 characters)
+./refactor-ci/src/cs132_HW1.py:567:83: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:568:53: W291 trailing whitespace
+./refactor-ci/src/cs132_HW1.py:571:80: E501 line too long (128 > 79 characters)
+./refactor-ci/tests/Test1.py:1:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test1.py:3:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test1.py:5:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test1.py:7:17: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test1.py:7:27: E231 missing whitespace after ','
+./refactor-ci/tests/Test1.py:10:1: E265 block comment should start with '# '
+./refactor-ci/tests/Test2.py:1:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test2.py:3:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test2.py:5:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test2.py:7:17: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test2.py:7:27: E231 missing whitespace after ','
+./refactor-ci/tests/Test2.py:12:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test2.py:12:15: E231 missing whitespace after ','
+./refactor-ci/tests/Test2.py:13:11: E262 inline comment should start with '# '
+./refactor-ci/tests/Test2.py:14:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test2.py:14:23: E231 missing whitespace after ','
+./refactor-ci/tests/Test2.py:14:26: W292 no newline at end of file
+./refactor-ci/tests/Test3.py:1:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test3.py:3:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test3.py:5:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test3.py:7:17: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test3.py:7:27: E231 missing whitespace after ','
+./refactor-ci/tests/Test3.py:14:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test3.py:14:24: E231 missing whitespace after ','
+./refactor-ci/tests/Test3.py:18:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test3.py:18:23: E231 missing whitespace after ','
+./refactor-ci/tests/Test3.py:23:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test3.py:23:23: E231 missing whitespace after ','
+./refactor-ci/tests/Test3.py:23:26: W292 no newline at end of file
+./refactor-ci/tests/Test4.py:1:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test4.py:3:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test4.py:5:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test4.py:7:17: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test4.py:7:27: E231 missing whitespace after ','
+./refactor-ci/tests/Test5.py:1:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test5.py:3:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test5.py:5:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test5.py:7:17: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test5.py:7:27: E231 missing whitespace after ','
+./refactor-ci/tests/Test5.py:10:1: E265 block comment should start with '# '
+./refactor-ci/tests/Test5.py:12:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test5.py:12:25: E231 missing whitespace after ','
+./refactor-ci/tests/Test5.py:13:1: E722 do not use bare 'except'
+./refactor-ci/tests/Test5.py:16:1: W391 blank line at end of file
+./refactor-ci/tests/Test6.py:1:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test6.py:3:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test6.py:5:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test6.py:7:17: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test6.py:7:27: E231 missing whitespace after ','
+./refactor-ci/tests/Test6.py:10:1: E265 block comment should start with '# '
+./refactor-ci/tests/Test6.py:11:8: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test6.py:15:16: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test7.py:1:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test7.py:3:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test7.py:5:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test7.py:7:17: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test7.py:7:27: E231 missing whitespace after ','
+./refactor-ci/tests/Test7.py:10:1: E265 block comment should start with '# '
+./refactor-ci/tests/Test7.py:13:19: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test7.py:13:29: E231 missing whitespace after ','
+./refactor-ci/tests/Test7.py:14:19: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test7.py:14:29: E231 missing whitespace after ','
+./refactor-ci/tests/Test8.py:1:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test8.py:3:5: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test8.py:5:13: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test8.py:7:17: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test8.py:7:27: E231 missing whitespace after ','
+./refactor-ci/tests/Test8.py:10:1: E265 block comment should start with '# '
+./refactor-ci/tests/Test8.py:14:12: E222 multiple spaces after operator
+./refactor-ci/tests/Test8.py:14:14: F821 undefined name 'Fraction'
+./refactor-ci/tests/Test8.py:14:24: E231 missing whitespace after ','
+./refactor-ci/tests/Test8.py:15:1: W391 blank line at end of file
